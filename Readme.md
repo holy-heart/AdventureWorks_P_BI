@@ -21,4 +21,4 @@ Projet réalisé avec Power BI à partir du Data Warehouse AdventureWorks de Mic
 
 ## Données
 
-* [ ] AdventureWorks DW - données publiques fournies par Microsoftm
+* [ ] AdventureWorks Data Warehouse 2019 - données publiques fournies par Microsoftm
