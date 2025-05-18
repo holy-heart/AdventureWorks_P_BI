@@ -5,7 +5,8 @@ Projet réalisé avec Power BI à partir du Data Warehouse AdventureWorks de Mic
 ## Objectifs
 
 - Analyser les ventes par produit, pays, revendeur, année
-- Suivre les remises, coûts, frais et taxes
+- Separer les ventes par internet et par revendeurs
+- Suivre les chiffres d'affaires, coûts, frais et taxes
 
 ## Fonctionnalités
 
